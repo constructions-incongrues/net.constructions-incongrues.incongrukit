@@ -2,7 +2,7 @@
 
 namespace ConstructionsIncongrues\Incongrukit\Importer;
 
-use ConstructionsIncongrues\Collection\FileCollection;
+use ConstructionsIncongrues\Incongrukit\Collection\FileCollection;
 use Psr\Log\LoggerAwareInterface;
 use Psr\Log\LoggerAwareTrait;
 use Symfony\Component\Filesystem\Filesystem;
