@@ -2,7 +2,7 @@
 
 namespace ConstructionsIncongrues\Incongrukit\Console\Output;
 
-use ConstructionsIncongrues\Event\LogEvent;
+use ConstructionsIncongrues\Incongrukit\Event\LogEvent;
 use Psr\Log\LogLevel;
 use Symfony\Component\Console\Output\ConsoleOutput;
 

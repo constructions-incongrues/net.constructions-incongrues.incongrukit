@@ -2,7 +2,6 @@
 
 namespace ConstructionsIncongrues\Incongrukit\Collection;
 
-use ConstructionsIncongrues\Collection\Exception\InvalidCollectionException;
 use Psr\Log\LoggerAwareInterface;
 use Psr\Log\LoggerAwareTrait;
 use Psr\Log\NullLogger;
