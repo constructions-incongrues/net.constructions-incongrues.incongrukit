@@ -1,4 +1,4 @@
-net.constructions-incongrues.incongrukit
-========================================
+Incongrukit
+===========
 
 Utility classes used throughout Constructions Incongrues projects
