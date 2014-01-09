@@ -1,7 +1,7 @@
 <?php
 namespace ConstructionsIncongrues\Incongrukit\Log;
 
-use ConstructionsIncongrues\Event\LogEvent;
+use ConstructionsIncongrues\Incongrukit\Event\LogEvent;
 use Psr\Log\AbstractLogger;
 use Symfony\Component\EventDispatcher\EventDispatcher;
 
